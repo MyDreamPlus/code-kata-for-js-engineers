@@ -1,0 +1,11 @@
+{
+  "name": "array-dedup",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha test -u tdd"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}

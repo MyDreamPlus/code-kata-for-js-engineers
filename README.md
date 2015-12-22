@@ -1,1 +1,1 @@
-# string-reversion
+# code-kata-for-js-engineers
